@@ -1,1 +1,1 @@
-# WY---Work-for-You
+# Um software que permite encontrar vários tipos de serviços que estarão disponíveis à qualquer momento de acordo com as necessidades do usuário. Está precisando de ajuda com algum problema em sua casa? Precisa fazer um reparo na rede elétrica? Vai usar uma camisa amanhã, mas não sabe passar? Teremos profissionais à sua disposição para te ajudar!
